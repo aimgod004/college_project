@@ -1,0 +1,42 @@
+name: student_conn
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  url_launcher: ^6.2.5
+  flutter_slidable: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/img.png
+    - assets/images/quizImages/py.jpeg
+    - assets/images/quizImages/flutter.png
+    - assets/images/quizImages/cpp.png
+    - assets/images/quizImages/html.png
+    - assets/images/quizImages/java.png
+    - assets/images/firstpage.png
+    - assets/images/google.png
+    - assets/images/loginpage.png
+    - assets/images/profile.png
+    - assets/images/signuppage.png
+    - assets/images/trophy.jpg
+    - assets/images/login_pic.jpg
+    - assets/images/log2.png
+    - assets/images/sidebg2.jpeg
+    - assets/images/clgLogo.png
+    
